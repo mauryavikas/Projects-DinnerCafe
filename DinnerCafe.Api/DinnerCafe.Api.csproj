@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>d23c3143-ff06-4adc-b960-cd905af471e3</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DinnerCafe.Contracts\DinnerCafe.Contracts.csproj" />
+    <ProjectReference Include="..\DinnerCafe.Application\DinnerCafe.Application.csproj" />
+    <ProjectReference Include="..\DinnerCafe.Infrastructure\DinnerCafe.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

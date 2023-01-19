@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vw0JOhFB0pTV9NZgga9tIQGoCq7EyjKrry93WE+IeetC3CR1SlTDy+XXotxEt5sKqIDkjWXMtAhrQZvXoGK8VQ==",
+  "success": true,
+  "projectFilePath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Application\\DinnerCafe.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\respo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

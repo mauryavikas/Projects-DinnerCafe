@@ -1,0 +1,12 @@
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\bin\Debug\net7.0\DinnerCafe.Contracts.deps.json
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\bin\Debug\net7.0\DinnerCafe.Contracts.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\bin\Debug\net7.0\DinnerCafe.Contracts.pdb
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\obj\Debug\net7.0\DinnerCafe.Contracts.csproj.AssemblyReference.cache
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\obj\Debug\net7.0\DinnerCafe.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\obj\Debug\net7.0\DinnerCafe.Contracts.AssemblyInfoInputs.cache
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\obj\Debug\net7.0\DinnerCafe.Contracts.AssemblyInfo.cs
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\obj\Debug\net7.0\DinnerCafe.Contracts.csproj.CoreCompileInputs.cache
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\obj\Debug\net7.0\DinnerCafe.Contracts.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\obj\Debug\net7.0\refint\DinnerCafe.Contracts.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\obj\Debug\net7.0\DinnerCafe.Contracts.pdb
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Contracts\obj\Debug\net7.0\ref\DinnerCafe.Contracts.dll

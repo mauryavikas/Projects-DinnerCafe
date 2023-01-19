@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BCwFVCtDayHx5FWGgm87y9cYn2RNQdGJPJjL5ypndGE=",
+  "Source": "DinnerCafe.Api",
+  "BasePath": "_content/DinnerCafe.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\bin\Debug\net7.0\DinnerCafe.Application.deps.json
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\bin\Debug\net7.0\DinnerCafe.Application.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\bin\Debug\net7.0\DinnerCafe.Application.pdb
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\bin\Debug\net7.0\DinnerCafe.Domain.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\bin\Debug\net7.0\DinnerCafe.Domain.pdb
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\obj\Debug\net7.0\DinnerCafe.Application.csproj.AssemblyReference.cache
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\obj\Debug\net7.0\DinnerCafe.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\obj\Debug\net7.0\DinnerCafe.Application.AssemblyInfoInputs.cache
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\obj\Debug\net7.0\DinnerCafe.Application.AssemblyInfo.cs
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\obj\Debug\net7.0\DinnerCafe.Application.csproj.CoreCompileInputs.cache
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\obj\Debug\net7.0\DinnerCafe.Application.csproj.CopyComplete
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\obj\Debug\net7.0\DinnerCafe.Application.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\obj\Debug\net7.0\refint\DinnerCafe.Application.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\obj\Debug\net7.0\DinnerCafe.Application.pdb
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Application\obj\Debug\net7.0\ref\DinnerCafe.Application.dll

@@ -1,0 +1,338 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Api\\DinnerCafe.Api.csproj": {}
+  },
+  "projects": {
+    "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Api\\DinnerCafe.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Api\\DinnerCafe.Api.csproj",
+        "projectName": "DinnerCafe.Api",
+        "projectPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Api\\DinnerCafe.Api.csproj",
+        "packagesPath": "C:\\Users\\respo\\.nuget\\packages\\",
+        "outputPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\respo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Application\\DinnerCafe.Application.csproj": {
+                "projectPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Application\\DinnerCafe.Application.csproj"
+              },
+              "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Contracts\\DinnerCafe.Contracts.csproj": {
+                "projectPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Contracts\\DinnerCafe.Contracts.csproj"
+              },
+              "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Infrastructure\\DinnerCafe.Infrastructure.csproj": {
+                "projectPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Infrastructure\\DinnerCafe.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Application\\DinnerCafe.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Application\\DinnerCafe.Application.csproj",
+        "projectName": "DinnerCafe.Application",
+        "projectPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Application\\DinnerCafe.Application.csproj",
+        "packagesPath": "C:\\Users\\respo\\.nuget\\packages\\",
+        "outputPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\respo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Domain\\DinnerCafe.Domain.csproj": {
+                "projectPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Domain\\DinnerCafe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Contracts\\DinnerCafe.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Contracts\\DinnerCafe.Contracts.csproj",
+        "projectName": "DinnerCafe.Contracts",
+        "projectPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Contracts\\DinnerCafe.Contracts.csproj",
+        "packagesPath": "C:\\Users\\respo\\.nuget\\packages\\",
+        "outputPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\respo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Domain\\DinnerCafe.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Domain\\DinnerCafe.Domain.csproj",
+        "projectName": "DinnerCafe.Domain",
+        "projectPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Domain\\DinnerCafe.Domain.csproj",
+        "packagesPath": "C:\\Users\\respo\\.nuget\\packages\\",
+        "outputPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\respo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Infrastructure\\DinnerCafe.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Infrastructure\\DinnerCafe.Infrastructure.csproj",
+        "projectName": "DinnerCafe.Infrastructure",
+        "projectPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Infrastructure\\DinnerCafe.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\respo\\.nuget\\packages\\",
+        "outputPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\respo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Application\\DinnerCafe.Application.csproj": {
+                "projectPath": "E:\\WORKSPACE-CS\\Clean Architecture project\\Project\\DinnerCafe.Application\\DinnerCafe.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Protocols": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\bin\Debug\net7.0\DinnerCafe.Infrastructure.deps.json
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\bin\Debug\net7.0\DinnerCafe.Infrastructure.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\bin\Debug\net7.0\DinnerCafe.Infrastructure.pdb
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\bin\Debug\net7.0\DinnerCafe.Application.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\bin\Debug\net7.0\DinnerCafe.Domain.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\bin\Debug\net7.0\DinnerCafe.Application.pdb
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\bin\Debug\net7.0\DinnerCafe.Domain.pdb
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\obj\Debug\net7.0\DinnerCafe.Infrastructure.csproj.AssemblyReference.cache
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\obj\Debug\net7.0\DinnerCafe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\obj\Debug\net7.0\DinnerCafe.Infrastructure.AssemblyInfoInputs.cache
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\obj\Debug\net7.0\DinnerCafe.Infrastructure.AssemblyInfo.cs
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\obj\Debug\net7.0\DinnerCafe.Infrastructure.csproj.CoreCompileInputs.cache
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\obj\Debug\net7.0\DinnerCafe.Infrastructure.csproj.CopyComplete
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\obj\Debug\net7.0\DinnerCafe.Infrastructure.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\obj\Debug\net7.0\refint\DinnerCafe.Infrastructure.dll
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\obj\Debug\net7.0\DinnerCafe.Infrastructure.pdb
+E:\WORKSPACE-CS\Clean Architecture project\Project\DinnerCafe.Infrastructure\obj\Debug\net7.0\ref\DinnerCafe.Infrastructure.dll
