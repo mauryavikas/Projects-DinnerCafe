@@ -2,12 +2,15 @@ using DinnerCafe.Application.Services.Authentication;
 using DinnerCafe.Application;
 using DinnerCafe.infrastructure;
 using Microsoft.Extensions.Configuration;
+using DinnerCafe.Api.Middleware;
+using Microsoft.Extensions.Options;
+using DinnerCafe.Api.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers();//options => options.Filters.Add<ErrorHandlingFilterAttribute>()
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 {
 builder.Services.AddEndpointsApiExplorer();
@@ -27,6 +30,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseMiddleware<ErrorHandlingMiddleware>(); // Global Error Handeling using middleware
 
 app.UseHttpsRedirection();
 

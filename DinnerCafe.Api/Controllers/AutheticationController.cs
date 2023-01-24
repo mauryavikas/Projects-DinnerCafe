@@ -1,11 +1,14 @@
 using Microsoft.AspNetCore.Mvc;
 using DinnerCafe.Contracts.Authentication;
 using DinnerCafe.Application.Services.Authentication;
+using DinnerCafe.Api.Filters;
 
 namespace DinnerCafe.Api.Controllers;
 
 [ApiController]
 [Route("auth")]
+// we can add filter in pipeline to handle error 
+//[ErrorHandlingFilter]
 public class AutheticationController : ControllerBase
  { private readonly IAuthenticationService _authenticationService;
     public AutheticationController(IAuthenticationService authenticationService)
